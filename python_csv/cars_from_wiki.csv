@@ -1,0 +1,9 @@
+Comma-separated values,Comma-separated values.1
+,
+Filename extension,.csv
+Internet media type,text/csv[1]
+Uniform Type Identifier (UTI),public.comma-separated-values-text[2]
+UTI conformation,public.delimited-values-text[2]
+Type of format,"multi-platform, serial data streams"
+Container for,database information organized as field separated lists
+Standard,RFC 4180
